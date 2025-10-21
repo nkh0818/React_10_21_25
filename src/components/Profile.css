@@ -1,0 +1,36 @@
+.profile-box{
+    width: 25rem;
+    height: 25rem;
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.profile-box img{
+    border-radius: 100%;
+
+}
+.img_newT{
+    position: relative;
+}
+.newTag{
+    font-size: 1.4rem;
+    width: 5rem;
+    height: 3rem;
+    background-color: rgb(73, 255, 191);
+    border-radius:50px;
+    line-height: 2.5rem;
+    position: absolute;
+    right:3rem;
+    top: 0.5rem;
+}
+.badge_box{
+    font-size: 1.4rem;
+    width: 5rem;
+    height: 3rem;
+    background-color: rgb(73, 255, 191);
+    border-radius:50px;
+    line-height: 2.5rem;
+    position: absolute;
+    right:6rem;
+    top: 0.5rem;
+}

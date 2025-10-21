@@ -1,0 +1,15 @@
+/* Badge.css */
+
+.badge_box{
+    width: 5rem;
+    height: 3rem;
+    background-color: rgb(95, 95, 255);
+    line-height: 2.8rem;   
+    border-radius: 2rem;
+    color: azure;
+    font-weight: bold;
+
+    /* position: absolute;
+    top: 1rem;
+    right: 3rem; */
+}
